@@ -1,7 +1,6 @@
 """
 Surya Malik
 sgmalik@uvm.edu
-CS 021
 """
 
 
